@@ -155,7 +155,7 @@ Make sure Ollama is running before starting the backend.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-work-intelligence.git
+git clone https://github.com/Sanjay-E22/ai-work-intelligence.git
 cd ai-work-intelligence
 ```
 
@@ -317,5 +317,13 @@ pytest tests/test_task_normalizer.py -v
 - LinkedIn: https://linkedin.com/in/sanjay-e-76a89a271
 
 ---
+<img width="941" height="458" alt="image" src="https://github.com/user-attachments/assets/6b015514-ed57-458a-86f1-bafc356cc06a" />
+
+<img width="938" height="457" alt="image" src="https://github.com/user-attachments/assets/4ade810f-7f8f-43ec-aa1e-93d523bc4a05" />
+
+<img width="912" height="457" alt="image" src="https://github.com/user-attachments/assets/39d03b78-54ae-4e53-90fa-e9546a20a304" />
+
+<img width="909" height="450" alt="image" src="https://github.com/user-attachments/assets/812a82d6-0efc-448a-abdc-43ac3e5c06cb" />
+
 
 *An AI-powered application for transforming work documents into structured, actionable intelligence.*
