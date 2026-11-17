@@ -1,0 +1,16 @@
+
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+ollama
+httpx
+python-multipart
+pymupdf
+sqlalchemy
+pymysql
+alembic
+streamlit
+requests
+pytest
+python-dotenv

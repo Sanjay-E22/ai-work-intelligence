@@ -6,7 +6,7 @@ from app.ai.workflow import DocumentWorkflow
 
 
 # Change this to the location of your actual PDF.
-pdf_path = Path(r"C:/Users/sanja/ai-work-intelligence/Task 1.pdf")
+pdf_path = Path(r"Task 1.pdf")
 print("path readed")
 if not pdf_path.exists():
     raise FileNotFoundError(f"PDF not found: {pdf_path}")
