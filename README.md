@@ -155,7 +155,7 @@ Make sure Ollama is running before starting the backend.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-work-intelligence.git
+git clone https://github.com/Sanjay-E22/ai-work-intelligence.git
 cd ai-work-intelligence
 ```
 
